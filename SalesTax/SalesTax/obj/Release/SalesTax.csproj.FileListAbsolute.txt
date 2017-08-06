@@ -1,0 +1,6 @@
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/bin/Release/SalesTax.exe.config
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/bin/Release/SalesTax.exe
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/bin/Release/SalesTax.pdb
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/obj/Release/SalesTax.csproj.CoreCompileInputs.cache
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/obj/Release/SalesTax.exe
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/obj/Release/SalesTax.pdb

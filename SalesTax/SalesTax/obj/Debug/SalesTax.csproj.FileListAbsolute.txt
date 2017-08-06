@@ -1,0 +1,16 @@
+c:/users/ankit.kumar1/documents/visual studio 2015/Projects/SalesTax/SalesTax/bin/Debug/SalesTax.exe.config
+c:/users/ankit.kumar1/documents/visual studio 2015/Projects/SalesTax/SalesTax/bin/Debug/SalesTax.exe
+c:/users/ankit.kumar1/documents/visual studio 2015/Projects/SalesTax/SalesTax/bin/Debug/SalesTax.pdb
+c:/users/ankit.kumar1/documents/visual studio 2015/Projects/SalesTax/SalesTax/obj/Debug/SalesTax.csprojResolveAssemblyReference.cache
+c:/users/ankit.kumar1/documents/visual studio 2015/Projects/SalesTax/SalesTax/obj/Debug/SalesTax.exe
+c:/users/ankit.kumar1/documents/visual studio 2015/Projects/SalesTax/SalesTax/obj/Debug/SalesTax.pdb
+C:/Users/ankit.kumar1/Desktop/SalesTax/SalesTax/bin/Debug/SalesTax.exe.config
+C:/Users/ankit.kumar1/Desktop/SalesTax/SalesTax/obj/Debug/SalesTax.exe
+C:/Users/ankit.kumar1/Desktop/SalesTax/SalesTax/obj/Debug/SalesTax.pdb
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/bin/Debug/SalesTax.exe.config
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/bin/Debug/SalesTax.exe
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/bin/Debug/SalesTax.pdb
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/obj/Debug/SalesTax.csprojResolveAssemblyReference.cache
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/obj/Debug/SalesTax.csproj.CoreCompileInputs.cache
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/obj/Debug/SalesTax.exe
+/Users/ankitkumar/Desktop/SalesTax/SalesTax/obj/Debug/SalesTax.pdb
